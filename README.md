@@ -18,12 +18,12 @@ By CP-COP팀 : 안윤빈(산업기술대 17), 양현용(산업기술대 15), 한
 
 ### 설계 환경 및 구현 
 ```
-<b>● JSP 언어 사용</b>
+● JSP 언어 사용
 Apache Tomcat을 사용하여 웹 프로그램 구현
 
-<b>● Python3 언어 사용 </b>
+● Python3 언어 사용
 BeautifulSoup 라이브러리를 사용하여 뉴스 기사 웹 크롤러 모듈 구현
 
-<b>● R Studio</b>
+● R Studio
 LDA 알고리즘을 구현
 ```
