@@ -91,7 +91,7 @@ MovieReviews <- list(phi = phi,
                      vocab = vocab,
                      term.frequency = term.frequency)
 
-options(encoding = 'UTF-8') #?��글�? 결과 보기
+options(encoding = 'UTF-8') #?•œê¸€ë¡? ê²°ê³¼ ë³´ê¸°
 
 
 library(LDAvis)
