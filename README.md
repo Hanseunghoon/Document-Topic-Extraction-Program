@@ -1,7 +1,10 @@
-# Document-Topic-Extraction-Program
-Document Topic Extraction Program using LDA algorithm (JSP, Python)
+### 문서 토픽 추출 소프트웨어
+LDA기반으로 문서의 토픽(키워드)를 추출하는 웹 소프트웨어입니다.<br/>
+By CP-COP팀 : 안윤빈(산업기술대 17), 양현용(산업기술대 15), 한승훈(산업기술대 15)
 
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+### 시스템 구성도
+
 
 # 한국산업기술대학교 컴퓨터공학부 알고리즘 김정준 교수님 팀 프로젝트
 
