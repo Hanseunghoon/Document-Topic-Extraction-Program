@@ -16,7 +16,7 @@ By CP-COP팀 : 안윤빈(산업기술대 17), 양현용(산업기술대 15), 한
 ![image](https://user-images.githubusercontent.com/50897259/92837640-ca617b00-f418-11ea-9ea8-14833ac7ebad.png)
 
 
-# 설계 환경 및 구현 
+### 설계 환경 및 구현 
 ```
 ● JSP 언어 사용
 Apache Tomcat을 사용하여 웹 프로그램 구현
