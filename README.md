@@ -2,8 +2,10 @@
 인터넷 뉴스 기사를 크롤링하여 연도 별로 IT의 핵심 주제를 파악할 수 있는 LDA 알고리즘 기반으로 구현된 문서의 토픽(키워드)를 추출하는 웹 소프트웨어입니다.<br/>
 By CP-COP팀 : 안윤빈(산업기술대 17), 양현용(산업기술대 15), 한승훈(산업기술대 15)
 
+
 ### 시스템 구성도
 ![image](https://user-images.githubusercontent.com/50897259/92837698-dbaa8780-f418-11ea-8f86-d8040e8a8653.png)
+
 
 ### Demo Web Site
 ![image](https://user-images.githubusercontent.com/50897259/92837707-de0ce180-f418-11ea-8d4d-533816e03307.png)
